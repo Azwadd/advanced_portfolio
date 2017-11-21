@@ -1,0 +1,21 @@
+body {
+    background-image: url('http://www.webdesignhot.com/wp-content/uploads/2016/02/Blue-Abstract-Background-Design-Vector-Illustration.jpg');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+.navbar-brand {
+    padding-right: 400px; 
+    color: white;
+}
+.nav-item {
+    padding-left: 60px;
+    color: white;
+    font-size: 18px;
+}
+.space {
+    padding-bottom: 80px;
+} 
+.text {
+  padding-top: 10px;
+}

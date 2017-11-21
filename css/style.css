@@ -1,16 +1,34 @@
-/* Nav Bar CSS */
-
-.col-md-5 {
-    background:green;
+body {
+    background-image: url("http://eskipaper.com/images/hd-widescreen-wallpaper-2.jpg");
+    background-position: top right;
+    background-repeat: no-repeat;
+    height: 100%; 
 }
-.col-md-7 {
-    background:yellow;
+.space { 
+    padding-bottom: 100px; 
 }
-.col-md
+.welcome {
+    text-align: center;
+    color: white;
+} 
+.navbar-brand {
+    padding-right: 600px; 
+    color: white;
+}
+.nav-item {
+    padding-left: 60px;
+    color: white;
+    font-size: 18px;
+}
+.text {
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+   font-size: 20px;
+} 
 /* Header CSS */
-
-
-
+ 
+ 
 /* Section CSS */
 
 

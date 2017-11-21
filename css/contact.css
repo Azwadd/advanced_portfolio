@@ -1,0 +1,24 @@
+body {
+    background-image: url('../images/contact.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar-brand {
+    padding-right: 600px; 
+    color: white;
+}
+.nav-item {
+    padding-left: 60px;
+    color: white;
+    font-size: 18px;
+}
+.space {
+    padding-bottom: 10%;
+}
+.text {
+    color: white;
+    padding-top: 2%;
+}
+.form {
+    color: blue;
+}

@@ -1,0 +1,17 @@
+body {
+    background-image: url('http://www.bloodassurance.org/wp-content/uploads/2015/06/gray-background1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.space {
+    padding-bottom: 30px;
+}
+.navbar-brand {
+    padding-right: 600px; 
+    color: blue;
+}
+.nav-item {
+    padding-left: 60px;
+    color: blue;
+    font-size: 18px;
+}

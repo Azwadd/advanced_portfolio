@@ -36,3 +36,18 @@ In this unit, coders will create an online Portfolio. The Portfolio will provide
 * [Advanced Reference Table]()
 * [http://getbootstrap.com/](http://getbootstrap.com/)
 * [https://www.w3schools.com/bootstrap/](https://www.w3schools.com/bootstrap/)
+<form id="contact_form" action="#" method="POST" enctype="multipart/form-data">
+                    <div class='section'>
+	                	<label for="name">Your name:</label><br>
+	                	<input id="name" class="input" name="name" type="text" value="" size="30"><br>
+                	</div>
+            	<div class="section">
+	            	<label for="email">Your email:</label><br>
+		            <input id="email" class="input" name="email" type="text" value="" size="30"><br>
+            	</div>
+            	<div class="section">
+		            <label for="message">Your message:</label><br>
+		            <textarea id="message" class="input" name="message" rows="7" cols="30"></textarea><br>
+        	    </div>
+	            <input id="submit_button" type="submit" value="Send email">
+                </form>						
